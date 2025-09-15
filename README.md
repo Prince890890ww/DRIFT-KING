@@ -3,6 +3,32 @@
 ## Multi Device Whatsapp Bot.
 
 ***
+<div align="center"> 
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=VAMPARINA-V1;Multi+Device+Whatsapp+Bot;Coded+By+ARNOLD+CHIRCHIR" alt="Typing SVG" />
+  </a> 
+</div> 
+
+<div align="center"> 
+  <a href="https://youtube.com/@mr_unique_hacker"> 
+    <img src="https://github.com/arnold6001/VAMPARINA-V1/blob/main/assets/IMG-20250708-WA0029.jpg"alt="VAMPARINA V1" height="300"> 
+  </a> 
+</div>
+
+---
+
+## 🚀 Steps to Deploy
+
+### Step 1: Fork the Repository
+
+Click the button below to fork the Knight Bot repository to your GitHub account:
+
+<div align="center">
+  <a href="https://github.com/arnold6001/Vamparinav1/fork">
+    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
+  </a>
+</div>
+
 
 ### SETUP
 
@@ -104,4 +130,4 @@ Upload the full project to your preferred panel or host.
 
  ### Support
 
-<a href="https://chat.whatsapp.com/CQyxExEBMGvEnkA32zqbNY"><img alt="WhatsApp" src="https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp"/></a>
+<a href="https://chat.whatsapp.com/DAwDS6hz3b14eCRkM7Cecj"><img alt="WhatsApp" src="https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp"/></a>
