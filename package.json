@@ -1,16 +1,16 @@
 {
-  "name": "KAISEN-MD v2",
+  "name": "DRIFT-KING",
   "version": "3.0.0",
-  "description": "WhatsApp bot made kaisen md with nodejs and baileys",
+  "description": "WhatsApp bot made arnold chirchir with nodejs and baileys",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name KAISEN-MD",
-    "stop": "pm2 stop KAISEN-MD",
-    "restart": "pm2 restart KAISEN-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name DRIFT-KING",
+    "stop": "pm2 stop DRIFT-KING",
+    "restart": "pm2 restart DRIFT-KING"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sumon9836/KAISEN-MD.git test"
+    "url": "git+https://github.com/arnold6001/DRIFT-KING.git test"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
