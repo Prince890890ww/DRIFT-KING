@@ -5,7 +5,7 @@
 ***
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=VAMPARINA-V1;Multi+Device+Whatsapp+Bot;Coded+By+ARNOLD+CHIRCHIR" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=DRIFT-KING;Multi+Device+Whatsapp+Bot;Coded+By+ARNOLD+CHIRCHIR" alt="Typing SVG" />
   </a> 
 </div> 
 
@@ -24,17 +24,13 @@
 Click the button below to fork the Knight Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/arnold6001/Vamparinav1/fork">
+  <a href="https://github.com/arnold6001/DRIFT-KING/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
 
 
 ### SETUP
-
-1. Fork the Repository
-    <br>
-<a href="https://github.com/sumon9836/KAISEN-MD/fork"><img title="KAISEN-MD" src="https://img.shields.io/badge/FORK KAISEN-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Get Your session id 
     <br>
