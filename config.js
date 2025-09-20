@@ -10,7 +10,7 @@ const toBool = (x) => x === 'true';
 const DB_URL = process.env.DATABASE_URL || '';
 
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || 'IK~WggCFZ4Y#DmiEGoBaA93-etVwJalYGmiLrFDFYHpJW9MuN8B5UNM', // add your session id here
+  SESSION_ID: process.env.SESSION_ID || 'PRINCE-MDX~EeVPia5k2rZ42PTU9lSt', // add your session id here
 
   HEROKU: {
     API_KEY: process.env.HEROKU_API_KEY,
